@@ -26,6 +26,7 @@ namespace GIT_TEST
         {
           this.InitializeComponent();
           print ("OK PRIMA MODIFICA");
+          print ("OK AGGIUNTA SECONDS MODIFICA");
 
         }
         //#####################################################################
