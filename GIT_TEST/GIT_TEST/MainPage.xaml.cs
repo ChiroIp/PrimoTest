@@ -30,6 +30,7 @@ namespace GIT_TEST
           print ("TERZA AGGIUNTA  MODIFICA");
           print ("QUARTA AGGIUNTA  MODIFICA");
           print ("QUINTA AGGIUNTA  MODIFICA");
+          print ("sesta AGGIUNTA  MODIFICA");
 
         }
         //#####################################################################
