@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace GIT_TEST
+namespace TEST_02
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
@@ -24,15 +24,7 @@ namespace GIT_TEST
     {
         public MainPage()
         {
-          this.InitializeComponent();
-          print ("OK PRIMA MODIFICA");
-          print ("OK AGGIUNTA SECONDS MODIFICA");
-          print ("TERZA AGGIUNTA  MODIFICA");
-
-        }
-        //#####################################################################
-        static private void print(String text) {
-          System.Diagnostics.Debug.WriteLine(text);
+            this.InitializeComponent();
         }
     }
 }
